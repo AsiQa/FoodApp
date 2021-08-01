@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Raf Projekat 2</string>
+    <string name="search_hint">chicken breast...</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="save_recipe">SAVE RECIPE</string>
+    <string name="selected_date">Selected date:</string>
+    <string name="add_to_menu">ADD TO MENU</string>
+    <string name="categories">Categories</string>
+    <string name="saved_menus">Saved menus</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_pin">Enter your pin</string>
+    <string name="login">Login</string>
+
+    <string-array name="recipe_category">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+    </string-array>
+</resources>
